@@ -1,0 +1,20 @@
+{
+  "name": "tradeoffers",
+  "version": "1.3.0",
+  "description": "Promise based library for Steam trade offers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "Alvin Lazaro <me@alvinl.com>",
+  "license": "MIT",
+  "dependencies": {
+    "long": "^2.2.3",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "nock": "^0.58.0",
+    "should": "^4.6.1"
+  }
+}
