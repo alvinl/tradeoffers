@@ -1,6 +1,6 @@
 {
   "name": "tradeoffers",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "Promise based library for Steam trade offers",
   "main": "index.js",
   "scripts": {
